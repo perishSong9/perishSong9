@@ -1,4 +1,4 @@
-- 👋 Heyyyyyy
+👋 Heyyyyyy
 
 <!---
 perishSong9/perishSong9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
